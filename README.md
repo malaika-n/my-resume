@@ -1,3 +1,3 @@
 # Resume
 
-<object data="Malaika-Nazim-Resume.pdf" type="application/pdf" width="100%" height="500px">
+{google_docs}https://docs.google.com/document/d/e/2PACX-1vSOEZFmW31BX2UkXTx_w3jkeLjEMH7AzoYt9Tzt1PGg3wky5Kv6XQwxy16SjJo7ETDWpmrwbA8UIDgv/pub{/google_docs}
